@@ -1,0 +1,21 @@
+Egy kutató laborban 3 féle mikroba szaporodási sebességét hasonlítják össze különböző hőmérsékleteken.
+Minden mikroba bináris osztódást követ, vagyis minden iterációban megkétszereződik a sejtszámuk.
+A 3 mikrobából 2 baktérium, amelyet táptalajon tenyésztenek, egy pedig vírus, amit gazdatestben.
+Minden baktérium rendelkezik optimális hőmérsékleti tartománnyal, illetve egy alsó-felső hőmérsékleti tűréshetárral. A feladat csak az alsó tűréshatárral fog foglalkozni!
+Minden mikroba az optimális hőmérsékleti tartományában szaporodig a leggyorsabban, ekkor 20 percenként kettőződik meg a sejtszáma/csíraszáma. Az optimális tartomány alsó határa és a minimális hőmérséklet közötti tartomány a szaporodási sebesség szempontjából 2 részre  osztható az alábbiak szerint:
+	Ha egy mikroba optimuma 30-40°C, és a minimálisan elviselt hőmérséklete 20°C, akkor a 30 és a 20 °C közötti tartományt megfelezzük:
+		- 25-29°C között közepes a szaporodási sebessége, tehát 40 percenként kettőződik meg.
+		- 20-24°C között alacsony a szaporodási sebessége, tehát 60 percenként kettőződik meg.
+
+Mivel a vírus nem élőlény, és nem lehet táptalajon tenyészteni, szüksége van gazdatestre. A vírus csak addig képes szaporodni, amíg a gazdatest él. Minden iterációban esély van arra, hogy a vírus annyira legyengíti a gazdatestet, hogy az elpusztul.
+Ebben a példában vírus optimális szaporodási hőmérséklete megegyezik az általa parazitált gazdatest optimumával, és az optimumon kívűl egyáltalán nem szaporodik.
+
+A baktériumok:
+	- Leuconostoc mesenteroides: optimális hőmérséklete: 29-30°C, alsó tűréshatár: 10°C. Ha a sejtszám meghatadta a 25 000-et, az átlata termelt tejsav szaporodást gátló hatása miatt csökken eggyel a szaporodási sebessége, ha előtte alacsony volt, akkor leáll a szaporodás. 
+	- Listeria Monocytogenes: optimális hőmérséklete: 30-37°C, alsó tűréshatár: 1°C.
+A vírus:
+	- Tobacco Mosaic Virus: optimális hőmérséklete: 24-28°C, ez alatt a hőmérséklet alatt leáll a szaporodás. Ha a vírus csíraszáma meghaladta a 100 000-et, a gazdatest elpusztul, és a vírus nem szaporodik tovább.
+
+Kezdetben minden mikrobából 1 csíra van.
+
+Irasd ki a mikrobák sejtszámát 12 óra elteltével 25°C-on.

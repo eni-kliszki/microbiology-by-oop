@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7c105d5-8bf7-4df5-9438-9b6cd9ddda1f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ELTE/Racing/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ELTE/Racing/race.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ELTE/Racing/src/main/java/com/codecool/race/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ELTE/Racing/src/main/java/com/codecool/race/Race.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ELTE/Racing/src/main/java/com/codecool/race/creature/Creature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ELTE/Racing/src/main/java/com/codecool/race/creature/Sandpiper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ELTE/Racing/src/main/java/com/codecool/race/creature/Sponge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ELTE/Racing/src/main/java/com/codecool/race/creature/Stepper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ELTE/Racing/src/main/java/com/codecool/race/weather/Weather.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EniPA/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EniPA/src/main/java/com/codecool/lalala/LalalaLake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EniPA/src/main/java/com/codecool/lalala/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EniPA/src/main/java/com/codecool/lalala/Navy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EniPA/src/main/java/com/codecool/lalala/Pirate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EniPA/src/main/java/com/codecool/lalala/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EniPA/src/main/java/com/codecool/lalala/ShipSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro/src/main/java/com/codecool/micro/GrowthRate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro/src/main/java/com/codecool/micro/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro/src/main/java/com/codecool/micro/microbe/Bacteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro/src/main/java/com/codecool/micro/microbe/Labor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro/src/main/java/com/codecool/micro/microbe/LeuconostocMesenteroides.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro/src/main/java/com/codecool/micro/microbe/ListeriaMonocytogenes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro/src/main/java/com/codecool/micro/microbe/Microbe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro/src/main/java/com/codecool/micro/microbe/TobaccoMosaicVirus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro/src/main/java/com/codecool/micro/microbe/Virus.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hgp4745CJhI5RBiMW4hy4MHlK9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ELTE-PA-s/EniRacing/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.codecool.micro.microbe" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codecool.micro.main" />
+      <module name="micro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.micro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7c105d5-8bf7-4df5-9438-9b6cd9ddda1f" name="Default Changelist" comment="" />
+      <created>1600442395081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600442395081</updated>
+      <workItem from="1600442398084" duration="10214000" />
+      <workItem from="1600536814963" duration="1540000" />
+      <workItem from="1600592799943" duration="1351000" />
+      <workItem from="1600874314577" duration="636000" />
+      <workItem from="1600932107200" duration="608000" />
+      <workItem from="1601362631614" duration="652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="211" width="374" height="585" key="#com.intellij.ide.util.MemberChooser" timestamp="1600506942939">
+      <screen x="67" y="27" width="1847" height="869" />
+    </state>
+    <state x="441" y="211" width="374" height="585" key="#com.intellij.ide.util.MemberChooser/67.27.1847.869@67.27.1847.869" timestamp="1600506942939" />
+    <state x="442" y="250" width="374" height="652" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1600505863634" />
+    <state x="153" y="455" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600442665205">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="153" y="455" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600442665205" />
+    <state x="623" y="75" width="726" height="771" key="#main" timestamp="1600874349242">
+      <screen x="67" y="27" width="1851" height="873" />
+    </state>
+    <state x="622" y="75" width="726" height="771" key="#main/67.27.1847.869@67.27.1847.869" timestamp="1600539692784" />
+    <state x="623" y="75" width="726" height="771" key="#main/67.27.1851.873@67.27.1851.873" timestamp="1600874349242" />
+    <state x="774" y="219" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601366298849">
+      <screen x="67" y="27" width="1851" height="873" />
+    </state>
+    <state x="773" y="218" width="424" height="484" key="FileChooserDialogImpl/67.27.1847.869@67.27.1847.869" timestamp="1600442457884" />
+    <state x="774" y="219" width="424" height="484" key="FileChooserDialogImpl/67.27.1851.873@67.27.1851.873" timestamp="1601366298849" />
+    <state x="775" y="258" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600443618534" />
+    <state width="1805" height="279" key="GridCell.Tab.0.bottom" timestamp="1600875253391">
+      <screen x="67" y="27" width="1851" height="873" />
+    </state>
+    <state width="1801" height="278" key="GridCell.Tab.0.bottom/67.27.1847.869@67.27.1847.869" timestamp="1600539756365" />
+    <state width="1805" height="279" key="GridCell.Tab.0.bottom/67.27.1851.873@67.27.1851.873" timestamp="1600875253391" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600506022845" />
+    <state width="1805" height="279" key="GridCell.Tab.0.center" timestamp="1600875253391">
+      <screen x="67" y="27" width="1851" height="873" />
+    </state>
+    <state width="1801" height="278" key="GridCell.Tab.0.center/67.27.1847.869@67.27.1847.869" timestamp="1600539756363" />
+    <state width="1805" height="279" key="GridCell.Tab.0.center/67.27.1851.873@67.27.1851.873" timestamp="1600875253391" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600506022843" />
+    <state width="1805" height="279" key="GridCell.Tab.0.left" timestamp="1600875253391">
+      <screen x="67" y="27" width="1851" height="873" />
+    </state>
+    <state width="1801" height="278" key="GridCell.Tab.0.left/67.27.1847.869@67.27.1847.869" timestamp="1600539756360" />
+    <state width="1805" height="279" key="GridCell.Tab.0.left/67.27.1851.873@67.27.1851.873" timestamp="1600875253391" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600506022843" />
+    <state width="1805" height="279" key="GridCell.Tab.0.right" timestamp="1600875253391">
+      <screen x="67" y="27" width="1851" height="873" />
+    </state>
+    <state width="1801" height="278" key="GridCell.Tab.0.right/67.27.1847.869@67.27.1847.869" timestamp="1600539756364" />
+    <state width="1805" height="279" key="GridCell.Tab.0.right/67.27.1851.873@67.27.1851.873" timestamp="1600875253391" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600506022844" />
+    <state width="1805" height="272" key="GridCell.Tab.1.bottom" timestamp="1600594151328">
+      <screen x="67" y="27" width="1851" height="873" />
+    </state>
+    <state width="1805" height="272" key="GridCell.Tab.1.bottom/67.27.1851.873@67.27.1851.873" timestamp="1600594151328" />
+    <state width="1805" height="272" key="GridCell.Tab.1.center" timestamp="1600594151327">
+      <screen x="67" y="27" width="1851" height="873" />
+    </state>
+    <state width="1805" height="272" key="GridCell.Tab.1.center/67.27.1851.873@67.27.1851.873" timestamp="1600594151327" />
+    <state width="1805" height="272" key="GridCell.Tab.1.left" timestamp="1600594151326">
+      <screen x="67" y="27" width="1851" height="873" />
+    </state>
+    <state width="1805" height="272" key="GridCell.Tab.1.left/67.27.1851.873@67.27.1851.873" timestamp="1600594151326" />
+    <state width="1805" height="272" key="GridCell.Tab.1.right" timestamp="1600594151328">
+      <screen x="67" y="27" width="1851" height="873" />
+    </state>
+    <state width="1805" height="272" key="GridCell.Tab.1.right/67.27.1851.873@67.27.1851.873" timestamp="1600594151328" />
+    <state x="390" y="277" width="477" height="507" key="refactoring.ChangeSignatureDialog" timestamp="1600443493507">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="390" y="277" width="477" height="507" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600443493507" />
+    <state x="656" y="257" key="search.everywhere.popup" timestamp="1600504469008">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1600504469008" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codecool/micro/microbe/Microbe.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
