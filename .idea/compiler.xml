@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="micro" />
         <module name="micro-Eni" />
+        <module name="microbiology-by-oop" />
       </profile>
     </annotationProcessing>
   </component>
